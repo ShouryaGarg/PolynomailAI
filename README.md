@@ -1,4 +1,4 @@
-# PolynomialAI Assignment
+# PolynomialAI Task
 
 ---
 
@@ -6,7 +6,7 @@ This my submission repository for Polynomial.ai internship task.
 
 ---
 
-## Problem statement
+## Problem Statement
 
  The provided dataset is of Amazon customer reviews of Cell phones and related products. The problem statement involves making a model to clasify each review as positive negative or neutral.
  
@@ -33,7 +33,7 @@ I have used the follwoing convention
 --- 
 
 Deployment details:
-I have used Flask and heroku to deplot the model. Seamntic-ui has been used for styling.
+I have used Flask and heroku to deploy the model. Semantic UI has been used for styling.
 ---
 
 ## Conclusion
